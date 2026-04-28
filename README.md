@@ -90,6 +90,8 @@ java Main
 | Ana Martínez | profesor1 |
 | Roberto Silva | profesor2 |
 
+Importante: Los nombres y apellidos de usuario no pueden usar "acento" 
+
 ## 📊 Funcionalidades
 
 ### Para Estudiantes:
